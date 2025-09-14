@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **Framework, DevOps, and Cloud Computing**
 
-- 👨‍💻 All of my projects are available at [https://koozeedev.vercel.app/](https://koozeedev.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://koozeedev.xyz/](https://koozeedev.xyz/)
 
 - 📫 How to reach me **koozeedev@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rQjamRf5maJ_HQ8EpYBR3Li1qnj1BPIR/view?usp=sharing](https://drive.google.com/file/d/1rQjamRf5maJ_HQ8EpYBR3Li1qnj1BPIR/view?usp=sharing)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1W3vZjU_tNWK7Q6jSHk1ixWShMQMjH9Hm/edit?usp=drivesdk&ouid=113573271868975419715&rtpof=true&sd=true](https://docs.google.com/document/d/1W3vZjU_tNWK7Q6jSHk1ixWShMQMjH9Hm/edit?usp=drivesdk&ouid=113573271868975419715&rtpof=true&sd=true)
 
 - ⚡ Fun fact **I like play game and explore Nature😁**
 
